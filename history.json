@@ -1139,5 +1139,20 @@
     "slot": "2026-11-14 08:30",
     "posted_at": "2026-11-14T14:22:07.162559+00:00",
     "facebook": "1455738530948421_122109224397536726"
+  },
+  {
+    "id": "2026-11-14_1719",
+    "kind": "ad",
+    "topic": "Missed callbacks that become booked jobs",
+    "hook": "The first caller gets the job.",
+    "format": "photo",
+    "photo": "pexels-jimmy-liao-3615017-17063686.jpg",
+    "hook_type": "truth",
+    "art_style": "photo",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-14 12:00",
+    "posted_at": "2026-11-14T17:20:13.869773+00:00",
+    "facebook": "1455738530948421_122109288363536726"
   }
 ]

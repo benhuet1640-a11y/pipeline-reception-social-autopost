@@ -1,0 +1,41 @@
+{
+  "topic": "Handling main water line repair calls during a busy service route",
+  "hook_options": [
+    "You're in a trench fixing a main water line and your phone won't stop ringing.",
+    "The plumber who picks up gets the main line job.",
+    "We hear the same thing from plumbers: I missed the big jobs while on a repair.",
+    "How many main line jobs hit voicemail while you were stuck on a service call today?",
+    "Main line calls you missed this week went to the guy down the street."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're in a trench fixing a main water line and your phone won't stop ringing.",
+    "You let it go to voicemail because your hands are covered in mud.",
+    "By the time you wipe your hands and call back two hours later, they already booked someone else.",
+    "That main line repipe just went straight to your competitor.",
+    "Pipeline Reception answers every call your team can't get to and books jobs straight into your schedule. We can get you set up in a day. Book a demo at pipelinereception.com"
+  ],
+  "caption": "Main line jobs pay the bills.\n\nDon't let them sit in voicemail.\n\nHow many calls do you miss on a heavy dig day?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbingcontractor",
+    "#plumbingservice",
+    "#plumbingcompany",
+    "#tradesbusiness"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "light",
+  "slot": "2026-11-14 18:00",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

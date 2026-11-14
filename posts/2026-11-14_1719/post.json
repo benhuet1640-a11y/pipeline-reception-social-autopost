@@ -1,0 +1,32 @@
+{
+  "topic": "Missed callbacks that become booked jobs",
+  "hook_options": [
+    "You're up a ladder. Phone buzzes in your pocket.",
+    "The first caller gets the job, not the best one.",
+    "We keep hearing plumbers miss calls while on jobs.",
+    "How many calls went to voicemail while you were on a job?",
+    "3 calls this week that booked the other plumber."
+  ],
+  "hook_type": "truth",
+  "headline": "The first caller gets the job.",
+  "caption": "You're up a ladder. Phone buzzes in your pocket. \ud83d\udcf2\nCall back ten minutes later and they've already hired someone else.\nPipeline Reception answers calls your team can't get to and books jobs straight into your schedule. We can set you up in a day.\nBook a demo at pipelinereception.com",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumbers",
+    "#plumbingservice",
+    "#plumbingcontractor",
+    "#tradesbusiness",
+    "#smallbusinessowner",
+    "#plumbinglife"
+  ],
+  "format": "photo",
+  "local": false,
+  "kind": "ad",
+  "art_style": "photo",
+  "theme": "dark",
+  "photo": "pexels-jimmy-liao-3615017-17063686.jpg",
+  "slot": "2026-11-14 12:00",
+  "images": [
+    "photo.jpg"
+  ]
+}

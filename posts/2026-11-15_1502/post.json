@@ -1,0 +1,41 @@
+{
+  "topic": "Handling pressure regulator replacement calls on a busy route",
+  "hook_options": [
+    "You're in a crawlspace. Phone rings twice. Straight to voicemail.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I can't answer the phone and do the job.",
+    "How many calls hit voicemail while you were in a crawlspace today?",
+    "Four calls you missed this week that went to the guy down the street"
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're in a crawlspace. Phone rings twice. Straight to voicemail.",
+    "That caller needs a pressure regulator swapped before dinner. They aren't waiting for a callback. They're dialing the next number on the screen.",
+    "If a new regulator job is worth six hundred bucks and you miss three of those a week while you're under a house, that adds up fast.",
+    "Pipeline Reception catches those calls. Our reception answers every call, qualifies the lead, and books it straight into your schedule while you work.",
+    "We can get you set up in a day. Book a demo at pipelinereception.com"
+  ],
+  "caption": "Most homeowners won't leave a message when their water pressure is spiking.\nThey just hang up and call the next plumber on the list.\nHow many calls did you miss today while you were under a house?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbinglife",
+    "#plumbingcontractor",
+    "#smallbusinessowner",
+    "#tradesbusiness"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "light",
+  "slot": "2026-11-15 08:30",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "topic": "Handling incoming calls during an on-site customer estimate",
+  "hook_options": [
+    "You are in a customer kitchen talking through an estimate. Phone buzzes in your pocket.",
+    "Answering your phone during an estimate makes you look bad either way.",
+    "We hear this a lot: you cannot answer calls while standing in someone's home.",
+    "Do you pull out your phone while pitching an estimate to a homeowner?",
+    "Missing calls while quoting a job costs you new business."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You are in a customer kitchen talking through an estimate. Phone buzzes in your pocket.",
+    "You can't answer it. Taking a phone call while pitching a job looks bad. So you hit ignore and finish the walkthrough.",
+    "By the time you get back to your van, that caller didn't leave a voicemail. They just called the next plumbing shop on Google and booked with them.",
+    "If a water heater swap or a repipe is on the line, that silent ring costs you real money. You shouldn't have to choose between the customer in front of you and the one calling in.",
+    "Pipeline Reception answers every call 24/7, qualifies the lead, and books jobs straight into your schedule. Your team stays focused on the work, and we can get you set up in a day.\n\nBook a demo at pipelinereception.com"
+  ],
+  "caption": "Answering your phone in front of a customer feels terrible.\n\nMost homeowners judge you if you step away mid-pitch, but letting it ring out hands the caller straight to the next shop on the list.\n\nDo you let incoming calls go to voicemail when you're estimating a job, or do you take them?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbingcontractor",
+    "#plumbinglife",
+    "#homeservices",
+    "#smallbusinessowner"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "dark",
+  "slot": "2026-11-15 18:00",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

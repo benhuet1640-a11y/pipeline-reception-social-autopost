@@ -1219,5 +1219,20 @@
     "slot": "2026-11-15 08:30",
     "posted_at": "2026-11-15T15:03:13.428890+00:00",
     "facebook": "1455738530948421_122109738351536726"
+  },
+  {
+    "id": "2026-11-16_0024",
+    "kind": "carousel",
+    "topic": "Handling incoming calls during an on-site customer estimate",
+    "hook": "You are in a customer kitchen talking through an estimate. Phone buzzes in your pocket.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-15 18:00",
+    "posted_at": "2026-11-16T00:24:26.970718+00:00",
+    "facebook": "1455738530948421_122109883269536726"
   }
 ]

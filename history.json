@@ -1248,5 +1248,20 @@
       "shares": 0,
       "checked_at": "2026-11-17T00:45:29.390933+00:00"
     }
+  },
+  {
+    "id": "2026-11-17_0049",
+    "kind": "carousel",
+    "topic": "Handling sewer line backup calls during a service route",
+    "hook": "You're knee-deep in a sewer line clear and your phone starts buzzing.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-16 18:00",
+    "posted_at": "2026-11-17T00:49:40.157466+00:00",
+    "facebook": "1455738530948421_122110295379536726"
   }
 ]

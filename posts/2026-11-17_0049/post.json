@@ -1,0 +1,39 @@
+{
+  "topic": "Handling sewer line backup calls during a service route",
+  "hook_options": [
+    "You're knee-deep in a sewer line clear and your phone starts buzzing.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I can't clear a main and answer the office line.",
+    "How many calls hit voicemail while you were clearing a backup today?",
+    "Four calls you missed this week that went to the next guy on the list."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're knee-deep in a sewer line clear and your phone starts buzzing.",
+    "Third time today. You let it roll to voicemail because your hands are full of gear.",
+    "That homeowner hangs up after the beep and dials the next number on the search list. You paid for the lead and handed the job to the next shop.",
+    "Pipeline Reception answers every call your team can't get to, qualifies the lead, and books the job right into your schedule while you work.",
+    "We can set you up in a day. Book a demo at pipelinereception.com."
+  ],
+  "caption": "Your hands are dirty and the phone won't stop.\nHow many jobs did voicemail steal from you this week?\nDrop a number below.",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbinglife",
+    "#plumbingcontractor",
+    "#contractorlife"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "dark",
+  "slot": "2026-11-16 18:00",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

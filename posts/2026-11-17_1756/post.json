@@ -1,0 +1,32 @@
+{
+  "topic": "Handling mainline jetting calls during a busy route",
+  "hook_options": [
+    "You're running a mainline jetter. Phone rings. You let it go.",
+    "The plumber who picks up gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I can't answer the phone and run the machine.",
+    "How many calls hit voicemail while you were clearing a mainline today?",
+    "The calls you miss on a job go straight to the guy down the street."
+  ],
+  "hook_type": "scene",
+  "headline": "You're running a mainline jetter. Phone rings.",
+  "caption": "You can't pick up the phone when your hands are on a high-pressure hose.\nThat homeowner won't wait for a callback. They just call the next name on the list.\nPipeline Reception covers the calls you can't get to and books the job right onto your schedule. We can set you up in a day.\nBook a demo at pipelinereception.com.",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbingcontractor",
+    "#plumbingservice",
+    "#smallbusinessowner",
+    "#contractorlife"
+  ],
+  "format": "photo",
+  "local": false,
+  "kind": "ad",
+  "art_style": "photo",
+  "theme": "light",
+  "photo": "dynamictradies-plumber-8936817_1920.jpg",
+  "slot": "2026-11-17 12:00",
+  "images": [
+    "photo.jpg"
+  ]
+}

@@ -1263,5 +1263,20 @@
     "slot": "2026-11-16 18:00",
     "posted_at": "2026-11-17T00:49:40.157466+00:00",
     "facebook": "1455738530948421_122110295379536726"
+  },
+  {
+    "id": "2026-11-17_1756",
+    "kind": "ad",
+    "topic": "Handling mainline jetting calls during a busy route",
+    "hook": "You're running a mainline jetter. Phone rings.",
+    "format": "photo",
+    "photo": "dynamictradies-plumber-8936817_1920.jpg",
+    "hook_type": "scene",
+    "art_style": "photo",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-17 12:00",
+    "posted_at": "2026-11-17T17:56:41.403552+00:00",
+    "facebook": "1455738530948421_122110566615536726"
   }
 ]

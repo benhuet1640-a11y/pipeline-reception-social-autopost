@@ -1,0 +1,32 @@
+{
+  "topic": "Handling PEX repipe inquiries during a busy service route",
+  "hook_options": [
+    "You're cutting a main line. Phone buzzes again.",
+    "The plumber who answers gets the job.",
+    "We hear the same thing: I can't answer the phone and run the job.",
+    "How many calls hit voicemail while you were on a job today?",
+    "Every missed call goes to the guy down the street."
+  ],
+  "hook_type": "scene",
+  "headline": "You're cutting a main line. Phone buzzes again.",
+  "caption": "You're elbow-deep in a repipe job and the office line keeps ringing. Most callers hang up on voicemail and dial the next plumber on Google. Pipeline Reception answers every call and books jobs straight into your schedule. We can set you up in a day. Book a demo at pipelinereception.com",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbingcontractor",
+    "#plumbingcompany",
+    "#smallbusinessowner",
+    "#tradesbusiness"
+  ],
+  "format": "photo",
+  "local": false,
+  "kind": "ad",
+  "art_style": "photo",
+  "theme": "light",
+  "photo": "classicairecare-man-8689628_1920.jpg",
+  "slot": "2026-11-18 12:00",
+  "images": [
+    "photo.jpg"
+  ]
+}

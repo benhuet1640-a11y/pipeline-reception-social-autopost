@@ -1300,5 +1300,20 @@
     "slot": "2026-11-17 18:00",
     "posted_at": "2026-11-18T00:58:46.809990+00:00",
     "facebook": "1455738530948421_122110696683536726"
+  },
+  {
+    "id": "2026-11-18_1731",
+    "kind": "ad",
+    "topic": "Handling PEX repipe inquiries during a busy service route",
+    "hook": "You're cutting a main line. Phone buzzes again.",
+    "format": "photo",
+    "photo": "classicairecare-man-8689628_1920.jpg",
+    "hook_type": "scene",
+    "art_style": "photo",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-18 12:00",
+    "posted_at": "2026-11-18T17:32:12.580918+00:00",
+    "facebook": "1455738530948421_122110973445536726"
   }
 ]

@@ -1322,5 +1322,20 @@
     "slot": "2026-11-18 12:00",
     "posted_at": "2026-11-18T17:32:12.580918+00:00",
     "facebook": "1455738530948421_122110973445536726"
+  },
+  {
+    "id": "2026-11-18_2335",
+    "kind": "carousel",
+    "topic": "Handling garbage disposal replacement calls during a service call",
+    "hook": "You are under a sink. The phone rings. You let it go.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": true,
+    "slot": "2026-11-18 18:00",
+    "posted_at": "2026-11-18T23:35:59.526461+00:00",
+    "facebook": "1455738530948421_122111046219536726"
   }
 ]

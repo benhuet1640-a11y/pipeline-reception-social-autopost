@@ -1,0 +1,39 @@
+{
+  "topic": "Handling garbage disposal replacement calls during a service call",
+  "hook_options": [
+    "You are under a sink. The phone rings. You let it go.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear this from plumbers all the time: you cannot answer the phone and do the job at the same time.",
+    "How many calls hit voicemail while you were under a sink today?",
+    "Every missed call is a job heading to the next guy on Google."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You are under a sink. The phone rings. You let it go.",
+    "It is a disposal replacement. Water is dripping. Your hands are covered in grease.",
+    "That caller hangs up on voicemail. They dial the next number on Google.",
+    "That is another paid job heading straight to another shop while you work.",
+    "Pipeline Reception answers every call 24/7, books jobs straight into your schedule, and covers the calls your team cannot get to. We can set you up in a day. Book a demo at pipelinereception.com"
+  ],
+  "caption": "Grease on your hands and a ringing phone do not mix well.\nHow many calls did you miss today while elbow-deep in a repair?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbingcompany",
+    "#plumbingservice",
+    "#tradesbusiness"
+  ],
+  "format": "thread",
+  "local": true,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "light",
+  "slot": "2026-11-18 18:00",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

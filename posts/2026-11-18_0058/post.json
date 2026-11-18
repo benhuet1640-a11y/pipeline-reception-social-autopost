@@ -1,0 +1,37 @@
+{
+  "topic": "Handling emergency fixture replacement calls during a busy route",
+  "hook_options": [
+    "You're mounting a new vanity. Phone rings. Straight to voicemail.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I can't answer the phone and do the job.",
+    "How many calls hit voicemail while you were on a job today?",
+    "Every missed call goes straight to the guy down the street."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're mounting a new vanity. Phone rings. Straight to voicemail.",
+    "That homeowner needs a bathroom fixture swapped out today. They aren't leaving a message.",
+    "They are dialing the next number on the search results page right now.",
+    "Pipeline Reception answers every call your team can't get to, qualifies the lead, and books the job. We can get you set up in a day. Book a demo at pipelinereception.com"
+  ],
+  "caption": "Your next customer isn't waiting around for a callback.\nHow many new fixture jobs went to voicemail this week?\nDrop a number below.",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbinglife",
+    "#contractorlife"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "dark",
+  "slot": "2026-11-17 18:00",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg"
+  ]
+}

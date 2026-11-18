@@ -1285,5 +1285,20 @@
     "slot": "2026-11-17 12:00",
     "posted_at": "2026-11-17T17:56:41.403552+00:00",
     "facebook": "1455738530948421_122110566615536726"
+  },
+  {
+    "id": "2026-11-18_0058",
+    "kind": "carousel",
+    "topic": "Handling emergency fixture replacement calls during a busy route",
+    "hook": "You're mounting a new vanity. Phone rings. Straight to voicemail.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-17 18:00",
+    "posted_at": "2026-11-18T00:58:46.809990+00:00",
+    "facebook": "1455738530948421_122110696683536726"
   }
 ]

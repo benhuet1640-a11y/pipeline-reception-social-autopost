@@ -1,0 +1,41 @@
+{
+  "topic": "Handling water heater tank replacement calls during a service route",
+  "hook_options": [
+    "You're hauling an old tank out the door. Phone rings.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I can't answer the phone while hauling gear.",
+    "How many water heater jobs hit voicemail while you were on a ladder today?",
+    "Water heater calls you missed this week that went to the guy down the street."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're hauling an old tank out the door. Phone rings.",
+    "You let it go to voicemail because you've got your hands full in a basement.",
+    "By the time you call back two hours later, they already booked the company that picked up on the first ring.",
+    "That is a big replacement job gone because nobody answered the office line.",
+    "Pipeline Reception answers every call your team can't get to, qualifies the lead, and books the job. We can set you up in a day. Book a demo at pipelinereception.com."
+  ],
+  "caption": "Missing a tank swap because you're busy hauling gear hurts.\n\nHow many calls go to voicemail while you're on a job?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbingcontractor",
+    "#plumbingcompany",
+    "#contractorlife",
+    "#tradesbusiness"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "light",
+  "slot": "2026-11-19 08:30",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

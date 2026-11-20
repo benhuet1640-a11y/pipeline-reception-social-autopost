@@ -1,0 +1,32 @@
+{
+  "topic": "Handling sewer inspection calls during a busy route",
+  "hook_options": [
+    "You're knee-deep in a sewer scope. Phone rings.",
+    "The plumber who picks up gets the job.",
+    "We hear the same thing from plumbers all the day long: I miss calls in the trench.",
+    "How many jobs did voicemail steal from you today?",
+    "Plumbing calls went straight to voicemail while you were scoping that line."
+  ],
+  "hook_type": "scene",
+  "headline": "You're knee-deep in a sewer scope. Phone rings.",
+  "caption": "Most callers don't leave a message. They just call the next guy on the list.\nPipeline Reception answers the calls your team can't get to and books the job right into your schedule.\nWe can set you up in a day at pipelinereception.com.\n\nHow many calls do you miss in a typical week?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbinglife",
+    "#plumbingcontractor",
+    "#plumbingservice",
+    "#contractorlife",
+    "#homeservices"
+  ],
+  "format": "photo",
+  "local": false,
+  "kind": "ad",
+  "art_style": "photo",
+  "theme": "light",
+  "photo": "905513-plumbing-1433606_1920.jpg",
+  "slot": "2026-11-20 12:00",
+  "images": [
+    "photo.jpg"
+  ]
+}

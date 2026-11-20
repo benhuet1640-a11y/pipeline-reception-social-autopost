@@ -1380,5 +1380,20 @@
       "shares": 0,
       "checked_at": "2026-11-20T19:16:24.073804+00:00"
     }
+  },
+  {
+    "id": "2026-11-20_1918",
+    "kind": "ad",
+    "topic": "Handling sewer inspection calls during a busy route",
+    "hook": "You're knee-deep in a sewer scope. Phone rings.",
+    "format": "photo",
+    "photo": "905513-plumbing-1433606_1920.jpg",
+    "hook_type": "scene",
+    "art_style": "photo",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-20 12:00",
+    "posted_at": "2026-11-20T19:18:24.601784+00:00",
+    "facebook": "1455738530948421_122111736363536726"
   }
 ]

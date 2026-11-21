@@ -1410,5 +1410,20 @@
     "slot": "2026-11-20 18:00",
     "posted_at": "2026-11-21T00:53:57.191767+00:00",
     "facebook": "1455738530948421_122111810157536726"
+  },
+  {
+    "id": "2026-11-21_1617",
+    "kind": "carousel",
+    "topic": "Handling PEX repipe inquiries during a busy kitchen remodel",
+    "hook": "You're sweating copper in a tight utility room in a basement. Phone rings. You let it go.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": true,
+    "slot": "2026-11-21 08:30",
+    "posted_at": "2026-11-21T16:17:46.019241+00:00",
+    "facebook": "1455738530948421_122112053427536726"
   }
 ]

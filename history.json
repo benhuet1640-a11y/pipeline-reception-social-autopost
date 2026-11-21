@@ -1395,5 +1395,20 @@
     "slot": "2026-11-20 12:00",
     "posted_at": "2026-11-20T19:18:24.601784+00:00",
     "facebook": "1455738530948421_122111736363536726"
+  },
+  {
+    "id": "2026-11-21_0053",
+    "kind": "carousel",
+    "topic": "Taking service calls from the bleachers on Saturday",
+    "hook": "You're in the bleachers at your kid's game. Phone buzzes in your pocket.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-20 18:00",
+    "posted_at": "2026-11-21T00:53:57.191767+00:00",
+    "facebook": "1455738530948421_122111810157536726"
   }
 ]

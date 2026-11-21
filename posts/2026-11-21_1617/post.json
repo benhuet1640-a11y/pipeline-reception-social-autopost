@@ -1,0 +1,39 @@
+{
+  "topic": "Handling PEX repipe inquiries during a busy kitchen remodel",
+  "hook_options": [
+    "You're sweating copper in a tight utility room. Phone rings.",
+    "The plumber who picks up gets the repipe job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I miss the big jobs because I can't reach the phone.",
+    "How many repipe inquiries hit voicemail while you were under a sink today?",
+    "Calls you missed this week while your hands were covered in flux"
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're sweating copper in a tight utility room in a basement. Phone rings. You let it go.",
+    "By the time you crawl out and check the office line, the homeowner already called the next guy on the list.",
+    "That single missed call was a full PEX repipe. Thousands of dollars walking right out the door.",
+    "Pipeline Reception catches every single call 24/7, qualifies the lead, and books it straight onto your schedule.",
+    "We can get you set up in a day. Book a demo at pipelinereception.com"
+  ],
+  "caption": "A missed call in the middle of a tight repipe hurts your bottom line.\n\nHow many voicemails did you clear out this morning?\n\nDrop a number below.",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbingcontractor",
+    "#contractorlife",
+    "#tradesbusiness"
+  ],
+  "format": "thread",
+  "local": true,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "light",
+  "slot": "2026-11-21 08:30",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

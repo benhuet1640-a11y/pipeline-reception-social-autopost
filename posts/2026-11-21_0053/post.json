@@ -1,0 +1,40 @@
+{
+  "topic": "Taking service calls from the bleachers on Saturday",
+  "hook_options": [
+    "You're in the bleachers at your kid's game. Phone buzzes in your pocket.",
+    "You shouldn't have to step behind the bleachers to book a plumbing job.",
+    "We keep hearing from plumbers who haven't watched a full Saturday game in years.",
+    "How many times did you leave your kid's game to answer a price shopper?",
+    "3 weekend calls shouldn't force you to spend Saturday pacing behind the dugout."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're in the bleachers at your kid's game. Phone buzzes in your pocket.",
+    "You step away behind the dugout to answer it. If you let it ring, they call the shop down the street. If you pick up, you miss your kid at bat.",
+    "Half the time you walk fifty feet away just to talk to a price shopper who wants an estimate twenty miles outside your service area.",
+    "The other half, it's an emergency call worth real money. You end up scribbling an address on a hot dog wrapper while trying to watch the game.",
+    "We built Pipeline Reception so you don't have to live tied to the phone.\n\nOur AI covers the calls you can't get to, screens out tire kickers, and books real jobs on your calendar. We can set you up in a day.\n\nBook a demo at pipelinereception.com"
+  ],
+  "caption": "Running a plumbing business shouldn't mean missing every weekend milestone.\n\nWe hear this all the time: owners keep their ringer on loud seven days a week just in case a high-ticket job comes through. It burns you out fast.\n\nHow do you handle weekend emergency calls right now? Do you answer them yourself or let them roll to voicemail? \u26be",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbingcontractor",
+    "#plumbinglife",
+    "#tradesbusiness",
+    "#homeservices"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "dark",
+  "slot": "2026-11-20 18:00",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

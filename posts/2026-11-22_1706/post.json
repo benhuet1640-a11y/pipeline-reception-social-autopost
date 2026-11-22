@@ -1,0 +1,31 @@
+{
+  "topic": "Handling drain line replacement calls on a busy route",
+  "hook_options": [
+    "You're hauling a heavy auger back to the van. Phone rings.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I miss every call on a busy route.",
+    "How many jobs did you send straight to voicemail today?",
+    "Calls you missed today went straight to the next guy."
+  ],
+  "hook_type": "scene",
+  "tweet": "You're hauling a heavy auger back to the van. Phone rings. You miss it, and they call the next plumber. Pipeline Reception answers every call 24/7, qualifies the lead, and books it on your schedule. We set you up in a day. Book a demo at pipelinereception.com",
+  "caption": "Most homeowners don't leave voicemails when a pipe backs up.\nThey just hang up and dial the next number on the list.\nHow many leads are you losing this week while you're elbow-deep in a job?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbinglife",
+    "#plumbingcontractor",
+    "#plumbingservice",
+    "#plumbingcompany"
+  ],
+  "format": "tweet",
+  "local": false,
+  "kind": "ad",
+  "art_style": "tweet",
+  "theme": "dark",
+  "slot": "2026-11-22 12:00",
+  "images": [
+    "slide_01.jpg"
+  ]
+}

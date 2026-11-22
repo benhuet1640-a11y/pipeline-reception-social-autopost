@@ -1461,5 +1461,20 @@
     "slot": "2026-11-21 18:00",
     "posted_at": "2026-11-22T01:45:47.055698+00:00",
     "facebook": "1455738530948421_122112172617536726"
+  },
+  {
+    "id": "2026-11-22_1706",
+    "kind": "ad",
+    "topic": "Handling drain line replacement calls on a busy route",
+    "hook": "You're hauling a heavy auger back to the van. Phone rings. You miss it, and they call the next plumber. Pipeline Reception answers every call 24/7, qualifies the lead, and books it on your schedule. We set you up in a day. Book a demo at pipelinereception.com",
+    "format": "tweet",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "tweet",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-22 12:00",
+    "posted_at": "2026-11-22T17:06:46.312903+00:00",
+    "facebook": "1455738530948421_122112396921536726"
   }
 ]

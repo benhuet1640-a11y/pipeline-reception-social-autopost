@@ -1,0 +1,41 @@
+{
+  "topic": "Handling service route dispatch calls during a busy install",
+  "hook_options": [
+    "You are hauling an old tank out the door. The phone rings.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I cannot answer the phone and do the job.",
+    "How many calls hit voicemail while you were on an install today?",
+    "Four calls you missed this week that went to the guy down the street"
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You are hauling an old tank out the door. The phone rings. You let it go.",
+    "By the time you wipe your hands and call them back twenty minutes later, they already booked the next guy on Google.",
+    "Most plumbers lose jobs to voicemail. You spend money on ads, then miss the calls those ads pay for.",
+    "We built Pipeline Reception to fix that. Our receptionists answer every call your team cannot reach, qualify the lead, and book the job straight into your schedule while you work.",
+    "We can set you up in a day. Book a demo at pipelinereception.com."
+  ],
+  "caption": "Your voicemail is handing work to the guy down the street.\n\nHow many missed calls did you see on your screen today?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbingcompany",
+    "#plumbingservice",
+    "#homeservices",
+    "#contractorlife",
+    "#tradesbusiness"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "dark",
+  "slot": "2026-11-21 18:00",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

@@ -1439,5 +1439,20 @@
     "slot": "2026-11-21 08:30",
     "posted_at": "2026-11-21T16:17:46.019241+00:00",
     "facebook": "1455738530948421_122112053427536726"
+  },
+  {
+    "id": "2026-11-22_0145",
+    "kind": "carousel",
+    "topic": "Handling service route dispatch calls during a busy install",
+    "hook": "You are hauling an old tank out the door. The phone rings. You let it go.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-21 18:00",
+    "posted_at": "2026-11-22T01:45:47.055698+00:00",
+    "facebook": "1455738530948421_122112172617536726"
   }
 ]

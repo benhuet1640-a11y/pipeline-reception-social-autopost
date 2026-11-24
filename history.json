@@ -1490,5 +1490,20 @@
       "shares": 0,
       "checked_at": "2026-11-24T00:05:07.717058+00:00"
     }
+  },
+  {
+    "id": "2026-11-24_0005",
+    "kind": "carousel",
+    "topic": "Handling sump pump discharge line calls during a busy service route",
+    "hook": "You're hauling pipe up from the basement. Phone rings. Straight to voicemail.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-23 18:00",
+    "posted_at": "2026-11-24T00:06:08.033430+00:00",
+    "facebook": "1455738530948421_122112838131536726"
   }
 ]

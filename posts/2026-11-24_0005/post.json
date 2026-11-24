@@ -1,0 +1,41 @@
+{
+  "topic": "Handling sump pump discharge line calls during a busy service route",
+  "hook_options": [
+    "You're hauling pipe up from the basement. Phone rings. Straight to voicemail.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I can't answer the phone and cut pipe.",
+    "How many calls hit voicemail while you were clearing a line today?",
+    "Calls you missed this week that went to the next guy on the screen"
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're hauling pipe up from the basement. Phone rings. Straight to voicemail.",
+    "If a homeowner needs a discharge line fixed right now, they aren't waiting for a callback.",
+    "They hang up and dial the next number on the screen.",
+    "That is another repair gone because your hands were full of tools.",
+    "Pipeline Reception answers every call when your team is busy and books jobs straight into your schedule. We can set you up in a day.\n\nBook a demo at pipelinereception.com"
+  ],
+  "caption": "Your voicemail is handing paying jobs away.\nHow many calls do you miss every time you head down into a basement?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbinglife",
+    "#plumbingcontractor",
+    "#plumbingservice",
+    "#contractorlife"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "dark",
+  "slot": "2026-11-23 18:00",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

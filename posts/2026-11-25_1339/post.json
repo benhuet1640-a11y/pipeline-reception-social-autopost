@@ -1,0 +1,41 @@
+{
+  "topic": "Handling sewage ejection pump repair calls during a service route",
+  "hook_options": [
+    "You're waist-deep in a pit. Phone rings. Straight to voicemail.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: 'I can't answer the phone and do the job.'",
+    "How many calls hit voicemail while you were on a service route today?",
+    "4 calls you missed this week that went to the guy down the street"
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're waist-deep in a pit. Phone rings. Straight to voicemail.",
+    "That homeowner doesn't leave a message. They just tap the next number on the screen. The job goes to the shop that picks up.",
+    "You're trying to run the route, quote jobs, and keep your office person from drowning while the phone keeps buzzing.",
+    "We built Pipeline Reception to answer every call 24/7. It books the job straight into your schedule and qualifies the lead so you know what you're walking into.",
+    "We can get you set up in a day. Book a demo at pipelinereception.com"
+  ],
+  "caption": "When you're knee-deep in a pit, the last thing you can do is check the phone.\n\nHow many missed calls turned into lost revenue this week?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbingcontractor",
+    "#plumbingservice",
+    "#smallbusinessowner",
+    "#contractorlife"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "light",
+  "slot": "2026-11-25 08:30",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

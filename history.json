@@ -1512,5 +1512,20 @@
       "shares": 0,
       "checked_at": "2026-11-25T13:37:32.407035+00:00"
     }
+  },
+  {
+    "id": "2026-11-25_1339",
+    "kind": "carousel",
+    "topic": "Handling sewage ejection pump repair calls during a service route",
+    "hook": "You're waist-deep in a pit. Phone rings. Straight to voicemail.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-25 08:30",
+    "posted_at": "2026-11-25T13:40:15.079791+00:00",
+    "facebook": "1455738530948421_122113355193536726"
   }
 ]

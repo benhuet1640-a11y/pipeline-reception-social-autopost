@@ -1,0 +1,41 @@
+{
+  "topic": "Handling backflow preventer testing inquiries during a busy route",
+  "hook_options": [
+    "You're testing a backflow preventer. Phone buzzes. Straight to voicemail.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I can't answer the phone while testing a backflow assembly.",
+    "How many backflow test calls hit voicemail while you were on a job today?",
+    "Backflow test calls you missed this week went to the guy down the street."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're testing a backflow preventer. Phone buzzes. Straight to voicemail.",
+    "Commercial building manager needs that annual test done before the water board fine hits.",
+    "They don't leave a message. They just tap the next number on the list.",
+    "That's a recurring yearly account walking right out the door.",
+    "Pipeline Reception answers the calls your team can't get to, qualifies the lead, and books the test straight into your schedule. We can set you up in a day. Book a demo at pipelinereception.com."
+  ],
+  "caption": "Annual commercial accounts shouldn't go to your voicemail.\n\nHow many test calls did you miss this week?\n\nDrop a comment below.",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbingcompany",
+    "#plumbingcontractor",
+    "#smallbusinessowner",
+    "#contractorlife",
+    "#tradesbusiness"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "dark",
+  "slot": "2026-11-26 18:00",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

@@ -1549,5 +1549,20 @@
     "slot": "2026-11-26 08:30",
     "posted_at": "2026-11-26T15:01:37.144192+00:00",
     "facebook": "1455738530948421_122113727091536726"
+  },
+  {
+    "id": "2026-11-26_2347",
+    "kind": "carousel",
+    "topic": "Handling backflow preventer testing inquiries during a busy route",
+    "hook": "You're testing a backflow preventer. Phone buzzes. Straight to voicemail.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-26 18:00",
+    "posted_at": "2026-11-26T23:47:31.407487+00:00",
+    "facebook": "1455738530948421_122113852539536726"
   }
 ]

@@ -1534,5 +1534,20 @@
       "shares": 0,
       "checked_at": "2026-11-26T14:59:59.233502+00:00"
     }
+  },
+  {
+    "id": "2026-11-26_1501",
+    "kind": "carousel",
+    "topic": "Handling multi-story copper repipe calls in Bloomfield homes",
+    "hook": "You're sweating joints on a copper repipe in a basement. Phone rings. Straight to voicemail.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": true,
+    "slot": "2026-11-26 08:30",
+    "posted_at": "2026-11-26T15:01:37.144192+00:00",
+    "facebook": "1455738530948421_122113727091536726"
   }
 ]

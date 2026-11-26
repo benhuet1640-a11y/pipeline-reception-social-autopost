@@ -1,0 +1,41 @@
+{
+  "topic": "Handling multi-story copper repipe calls in Bloomfield homes",
+  "hook_options": [
+    "You're sweating joints on a copper repipe. Phone rings. Straight to voicemail.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I can't answer the phone and do the job.",
+    "How many calls hit voicemail while you were on a job today?",
+    "Calls you missed this week went to the shop down the street."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're sweating joints on a copper repipe in a basement. Phone rings. Straight to voicemail.",
+    "By the time you wipe the flux off your hands and call them back, they already booked someone else.",
+    "That is a fresh repipe job walking right out the door to another shop.",
+    "We cover calls you can't get to, answer 24/7, and book jobs straight into your schedule.",
+    "We can get you set up in a day. Book a demo at pipelinereception.com."
+  ],
+  "caption": "Ever lose a repipe job because you were under a pipe?\n\nIt happens on almost every service route.\n\nHow many calls did you miss today?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbingcontractor",
+    "#plumbingcompany",
+    "#smallbusinessowner",
+    "#pittsburgh",
+    "#412"
+  ],
+  "format": "thread",
+  "local": true,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "light",
+  "slot": "2026-11-26 08:30",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

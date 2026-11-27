@@ -1,0 +1,39 @@
+{
+  "topic": "Handling garbage disposal replacement inquiries in tight kitchens",
+  "hook_options": [
+    "You are hauling an old garbage disposal out of a tight kitchen cabinet.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I cannot answer the phone and do the job.",
+    "How many calls hit voicemail while you were under a sink today?",
+    "Calls missed this week went to the competitor down the street."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You are hauling an old garbage disposal out of a tight kitchen cabinet. The phone rings in your pocket. You let it go.",
+    "By the time you wipe your hands and call them back twenty minutes later, they already hired someone else.",
+    "That is a replacement job gone because you were actually doing plumbing instead of staring at your phone.",
+    "Pipeline Reception answers every call when your team cannot get to the phone, qualifies the lead, and books the job right into your schedule.",
+    "We can get you set up in a day so you never lose a job to voicemail again. Book a demo at pipelinereception.com"
+  ],
+  "caption": "Tight kitchen cabinets make every repair take longer.\n\nDo not miss the next call because you are jammed under a sink.\n\nHow many calls went to voicemail while you were on a job today?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbingcontractor",
+    "#smallbusinessowner",
+    "#contractorlife"
+  ],
+  "format": "thread",
+  "local": true,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "dark",
+  "slot": "2026-11-27 08:30",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

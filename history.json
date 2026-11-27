@@ -1571,5 +1571,20 @@
     "slot": "2026-11-26 18:00",
     "posted_at": "2026-11-26T23:47:31.407487+00:00",
     "facebook": "1455738530948421_122113852539536726"
+  },
+  {
+    "id": "2026-11-27_1533",
+    "kind": "carousel",
+    "topic": "Handling garbage disposal replacement inquiries in tight kitchens",
+    "hook": "You are hauling an old garbage disposal out of a tight kitchen cabinet. The phone rings in your pocket. You let it go.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": true,
+    "slot": "2026-11-27 08:30",
+    "posted_at": "2026-11-27T15:33:55.424305+00:00",
+    "facebook": "1455738530948421_122114094087536726"
   }
 ]

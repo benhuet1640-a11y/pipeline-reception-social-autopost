@@ -1,0 +1,41 @@
+{
+  "topic": "Handling pipe threading calls during a busy service route",
+  "hook_options": [
+    "You are cutting pipe in a tight utility room. Phone rings. Straight to voicemail.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I cannot answer the phone and thread pipe.",
+    "How many calls hit voicemail while you were cutting pipe today?",
+    "Four calls you missed this week while your hands were on the vise."
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You are cutting pipe in a tight utility room. Phone rings. Straight to voicemail.",
+    "It happens on every job. You are knee-deep in a threaded nipple replacement and the phone starts buzzing in your pocket.",
+    "You let it go to voicemail. That homeowner hangs up and calls the next number on the list. You just handed a paying job to the guy down the street.",
+    "We built Pipeline Reception to catch the calls your team cannot reach. It answers every call, qualifies the lead, and books the job while you work.",
+    "We can set you up in a day. Book a demo at pipelinereception.com."
+  ],
+  "caption": "Threading pipe does not leave a free hand for the phone.\nHow many voicemails did you miss this week?\nDrop a number below.",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbinglife",
+    "#contractorlife",
+    "#pittsburgh",
+    "#412"
+  ],
+  "format": "thread",
+  "local": true,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "light",
+  "slot": "2026-11-27 18:00",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

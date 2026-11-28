@@ -1,0 +1,41 @@
+{
+  "topic": "Handling water heater burner assembly replacement calls on a service route",
+  "hook_options": [
+    "You're wrestling a burner assembly. Phone rings. Straight to voicemail.",
+    "The plumber who answers gets the job. Not the best one.",
+    "We hear the same thing from plumbers all the time: I can't answer the phone and clean a burner.",
+    "How many calls hit voicemail while you were pulling a burner today?",
+    "Calls you missed this week while your hands were covered in soot"
+  ],
+  "hook_type": "scene",
+  "tweets": [
+    "You're wrestling a burner assembly out of a tank. Phone rings. Straight to voicemail.",
+    "That homeowner doesn't leave a message. They just tap the next number on Google.",
+    "By the time you crawl out and check your screen, they're already booked with someone else.",
+    "Pipeline Reception answers the calls you can't get to, qualifies the lead, and books the job.",
+    "We can set you up in a day. Book a demo at pipelinereception.com."
+  ],
+  "caption": "Soot on your hands and a missed call on your screen.\nIt happens every time you're deep inside a water heater.\n\nHow do you handle the phone when you're elbow-deep in a repair?",
+  "hashtags": [
+    "#plumbingbusiness",
+    "#plumber",
+    "#plumbers",
+    "#plumbingcompany",
+    "#smallbusinessowner",
+    "#homeservices",
+    "#tradesbusiness"
+  ],
+  "format": "thread",
+  "local": false,
+  "kind": "carousel",
+  "art_style": "thread",
+  "theme": "dark",
+  "slot": "2026-11-28 08:30",
+  "images": [
+    "slide_01.jpg",
+    "slide_02.jpg",
+    "slide_03.jpg",
+    "slide_04.jpg",
+    "slide_05.jpg"
+  ]
+}

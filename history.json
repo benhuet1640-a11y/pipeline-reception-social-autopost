@@ -1609,5 +1609,21 @@
     "posted_at": "2026-11-27T23:46:16.882995+00:00",
     "instagram": "17895666120618434",
     "facebook": "1455738530948421_122114208009536726"
+  },
+  {
+    "id": "2026-11-28_1408",
+    "kind": "carousel",
+    "topic": "Handling water heater burner assembly replacement calls on a service route",
+    "hook": "You're wrestling a burner assembly out of a tank. Phone rings. Straight to voicemail.",
+    "format": "thread",
+    "photo": null,
+    "hook_type": "scene",
+    "art_style": "thread",
+    "person": null,
+    "local": false,
+    "slot": "2026-11-28 08:30",
+    "posted_at": "2026-11-28T14:08:53.355886+00:00",
+    "instagram": "17989103177891897",
+    "facebook": "1455738530948421_122114395623536726"
   }
 ]
